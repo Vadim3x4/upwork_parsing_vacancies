@@ -38,6 +38,6 @@ python3 main.py
 
 ## Technology Stack: Python 3.8.5, BeautifulSoup4, Lxml, Requests.
 
-## Author [Vadim3x4](https://github.com/Vadim3x4)  Email: kurnuli2010@yandex.ru Telegram: @Kurnuli3x4
+## Author [Vadim3x4](https://github.com/Vadim3x4)
 
 
