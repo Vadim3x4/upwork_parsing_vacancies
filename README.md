@@ -1,4 +1,4 @@
-
+r
 # Upwork vacancies to chat Telegram
 
 The script parses the page specified in "URL_TO_PARSE" (this url can be obtained using the Upwork search). After receiving the page data, the script takes out the data (Title, Link, Price), and sends them to the telegram chat "CHAT_ID"specified by you.
